@@ -8,13 +8,13 @@
 </div>
 
 ### ingredientes:
-- 2 tazas de leche de coco
+- 🥛2 tazas de leche de coco
 
-- 1 (8.5 oz) lata de crema de coco
+- 🥥1 (8.5 oz) lata de crema de coco
 
-- 1 (12 oz) lata de leche evaporada
+- 🥛1 (12 oz) lata de leche evaporada
 
-- 1 (14 oz) lata de leche condensada
+- 🥛1 (14 oz) lata de leche condensada
 
 - 1 cucharada de vainilla
 

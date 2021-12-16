@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://www.bing.com/images/blob?bcid=ThZrU6F35JQDqxcxoNWLuD9SqbotqVTdP0w" width="520" height="374" />
+<img src="https://media.istockphoto.com/photos/homemade-puerto-rican-coquito-eggnog-picture-id1070748718?k=20&m=1070748718&s=612x612&w=0&h=4VI06QfQqZQdb_4M0PgUyCTd52D9o5kCXdAMagUNdxg=" width="520" height="374" />
   
 # Manjares Navideños
 ## Coquito
